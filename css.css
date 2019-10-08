@@ -1,4 +1,27 @@
 /* Menu bar */
 .menuBar{
-    background-color: 
+    background-color: #115dd6;
+    align-content: center;
+    text-align: center;
+    width: wrap;
+}
+.menuButton{
+    background-color: inherit;
+    color: whitesmoke;
+    border: none;
+    height: 2rem;
+    width: 4rem;
+}
+
+/* main */
+.main{
+    overflow: hidden;
+}
+
+/* content */
+.content{
+    background-color: #041530;
+    width: 100rem;
+    height: 100rem;
+    margin: auto;
 }
