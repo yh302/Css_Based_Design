@@ -3,7 +3,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .menuBar{
-    background-color: #B09E99;
+    background-color: #0D1321;
     align-content: center;
     text-align: center;
     width: wrap;
@@ -14,25 +14,4 @@
     border: none;
     height: 2rem;
     width: 4rem;
-}
-
-/* main */
-.main{
-    overflow: hidden;
-}
-
-/* content */
-.content{
-    background-color: #EFF1F3; 
-    width: 100rem;
-    height: 100%;
-    margin: auto;
-    /* background-image: linear-gradient(#236bde, #041530, #115dd6); */
-    /* background-image: linear-gradient(#447896, #115dd6 ); */
-
-}
-footer{
-    font-size: 1.5ch;
-    color: whitesmoke;
-    background-color: #272727;
 }

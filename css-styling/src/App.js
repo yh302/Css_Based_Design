@@ -1,13 +1,16 @@
 import React from 'react';
 import Menu from './components/menuBar'
+import Content from './components/content'
+import Footer from './components/footer'
+import './css/app.css'
 
 
 function App() {
   return (
     <div className="App">
-      <header><Menu/></header>
-      <content></content>
-      <footer></footer>
+      <Menu/>
+      <Content/>
+      <Footer/>
     </div>
   );
 }
